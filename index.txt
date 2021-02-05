@@ -1,5 +1,5 @@
 <html>
 <head>
-<title>HotelManagement</title>
+<title>HotelManagementsystem</title>
 </head>
 </html>
